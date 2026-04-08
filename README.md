@@ -3,7 +3,7 @@ Analiza rentowności i wpływu polityki rabatowej na zysk w danych Global Supers
 ## Przegląd Projektu
 Celem projektu jest identyfikacja nierentownych produktów oraz optymalizacja polityki rabatowej na podstawie danych **Global Superstore**. Projekt rozwiązuje twardy problem biznesowy: bada, w jaki sposób zniżki wpływają na końcowy zysk firmy i diagnozuje obszary, w których agresywne rabatowanie generuje straty zamiast stymulować przychód.
 ## Wykorzystane Technologie
-**Analiza Danych:**SQL
+**Analiza Danych:** SQL
 **Wizualizacje i Raprotowanie:** Power BI
 **Dane źródłowe:** Global Superstore Dataset
 ## Etapy
