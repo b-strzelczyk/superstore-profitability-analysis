@@ -4,10 +4,10 @@ Analiza rentowności i wpływu polityki rabatowej na zysk w danych Global Supers
 Celem projektu jest identyfikacja nierentownych produktów oraz optymalizacja polityki rabatowej na podstawie danych **Global Superstore**. Projekt rozwiązuje twardy problem biznesowy: bada, w jaki sposób zniżki wpływają na końcowy zysk firmy i diagnozuje obszary, w których agresywne rabatowanie generuje straty zamiast stymulować przychód.
 ## Wykorzystane Technologie
 **Analiza Danych:** SQL
-**Wizualizacje i Raprotowanie:** Power BI
+**Wizualizacje i Raportowanie:** Power BI
 **Dane źródłowe:** Global Superstore Dataset
 ## Etapy
-### 1.Ekspolarcja za pomocą SQL
+### 1.Eksploarcja za pomocą SQL
 Wstępna diagnoza została przeprowadzona za pomocą 3 zapytań SQL:
 **Etap I (Kategorie):** agregacja sprzedaży, zysku, marży procentowej oraz średniego rabatu z podziałem na podkategorie.
 <img width="794" height="518" alt="Kategorie" src="https://github.com/user-attachments/assets/fedf4180-62e8-4a4f-b6b0-30811084c1a9" />
@@ -18,7 +18,7 @@ Wstępna diagnoza została przeprowadzona za pomocą 3 zapytań SQL:
 **Etap III (Analiza klientów):** Identyfikacja Top 10 klientów generujących największe straty pomimo dużego wolumenu.
 <img width="512" height="285" alt="Analiza_klientów" src="https://github.com/user-attachments/assets/97a2acce-e1e9-4a43-a54e-9266a4ecd616" />
 
-  *Plik z skryptami znajduje się w repozytorium*
+  *Plik ze skryptami znajduje się w repozytorium*
 ### 2. Kokpit Menadżerski (Power Bi)
 Zbudowano dashboard dla osób decyzyjnych, pozwalający na filtrowanie danych po regionach i latach.
 **Kluczowe elementy**
