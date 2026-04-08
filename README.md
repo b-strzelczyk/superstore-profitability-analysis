@@ -25,5 +25,6 @@ Zbudowano dashboard dla osób decyzyjnych, pozwalający na filtrowanie danych po
 3. **Rekomendacje:** Konieczna jest rewizja polityki cenowej oraz ustanowienie maksymalnych progów rabatowych.
 
    *Poniżej zrzut ekranu kokpitu menadżerskiego*
-   
+   <img width="1436" height="806" alt="Dashboard" src="https://github.com/user-attachments/assets/8277929c-6827-48c7-b14d-9af9cb0ab214" />
+
 
